@@ -1,3 +1,4 @@
+[![Build Status](https://app.travis-ci.com/nedssoft/assignment-getir.svg?branch=main)](https://app.travis-ci.com/nedssoft/assignment-getir)
 # Api Docs
 
 ## BASE_URL:
