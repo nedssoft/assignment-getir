@@ -2,10 +2,10 @@
 # Api Docs
 
 ## BASE_URL:
+[https://challenge-getir.herokuapp.com/api](https://challenge-getir.herokuapp.com/api/)
 
 
-
-> [Link to the API documentation]('#)
+> [Link to the API documentation](https://documenter.getpostman.com/view/4448465/UVkjwdpB)
 
 # Endpoints Summary
 
