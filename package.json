@@ -1,0 +1,31 @@
+{
+  "name": "assignment-getir",
+  "version": "1.0.0",
+  "description": "Node/Mongodb challenge",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "npm test",
+    "dev": "nodemon"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nodemon": "^2.0.15",
+    "supertest": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedssoft/assignment-getir.git"
+  },
+  "author": "Chinedu Orie <nedsoftdeveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedssoft/assignment-getir/issues"
+  },
+  "homepage": "https://github.com/nedssoft/assignment-getir#readme"
+}
