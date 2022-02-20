@@ -1,6 +1,6 @@
 const express = require('express');
 const cors = require('cors');
-
+const routes = require('../routes');
 
 const app = express();
 
@@ -11,6 +11,8 @@ app.use(express.urlencoded({ extended: true }));
 app.get('/', (req, res) => {
   res.send({ status: 'success', message: 'Welcome' });
 });
+
+app.use('/api', routes);
 
 app.all('*', (req, res) => {
   return res.status(404).send({
