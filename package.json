@@ -4,7 +4,7 @@
   "description": "Node/Mongodb challenge",
   "main": "src/index.js",
   "scripts": {
-    "test": "npm test",
+    "test": "jest --forceExit",
     "dev": "nodemon"
   },
   "dependencies": {
