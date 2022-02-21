@@ -68,7 +68,7 @@ code = 404 implies Resource Not Found / invalid endpoint
 
 #### Steps
 
-- `git clone https://github.com/nedssoft/assignment-getir.git && cd assignment-getir.git`
+- `git clone https://github.com/nedssoft/assignment-getir.git && cd assignment-getir`
 - `touch .env && cp .env.example .env`
 - `npm install`
 - `npm run dev`
