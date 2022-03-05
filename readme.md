@@ -1,8 +1,6 @@
 [![Build Status](https://app.travis-ci.com/nedssoft/assignment-getir.svg?branch=main)](https://app.travis-ci.com/nedssoft/assignment-getir)
 # Api Docs
 
-## BASE_URL:
-[https://challenge-getir.herokuapp.com/api](https://challenge-getir.herokuapp.com/api/)
 
 
 > [Link to the API documentation](https://documenter.getpostman.com/view/4448465/UVkjwdpB)
@@ -68,7 +66,7 @@ code = 404 implies Resource Not Found / invalid endpoint
 
 #### Steps
 
-- `git clone https://github.com/nedssoft/assignment-getir.git && cd assignment-getir`
+- `git clone https://github.com/nedssoft/simple-nodejs-mongodb-api.git && cd simple-nodejs-mongodb-api`
 - `touch .env && cp .env.example .env`
 - `npm install`
 - `npm run dev`

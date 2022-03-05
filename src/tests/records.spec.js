@@ -1,7 +1,6 @@
 const request = require('supertest');
 const server = require('../server');
 const getCollection = require('../db');
-const res = require('express/lib/response');
 
 describe('DB Collection', () => {
   it('should create connection to the mongodb server', async () => {
